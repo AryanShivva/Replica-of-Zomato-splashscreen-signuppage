@@ -7,6 +7,8 @@ Learning : How to Display a SplashScreen on any app.
            
 learned how to use drawables
 code:
+
+
  <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
